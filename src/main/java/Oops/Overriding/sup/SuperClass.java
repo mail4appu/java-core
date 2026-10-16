@@ -1,4 +1,4 @@
-package Oops.Overriding.sup;
+package oops.overriding.sup;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

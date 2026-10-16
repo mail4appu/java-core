@@ -1,4 +1,4 @@
-package Oops.inheritancelist;
+package oops.inheritancelist;
 
 public class MainApp {
     /*public static void main(String[] args) {

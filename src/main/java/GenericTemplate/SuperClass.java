@@ -1,4 +1,4 @@
-package GenericTemplate;
+package generictemplate;
 
 public class SuperClass {
 	public void display(){

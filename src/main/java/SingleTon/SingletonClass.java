@@ -1,4 +1,4 @@
-package SingleTon;
+package singleton;
 
 public class SingletonClass {
 	 static SingletonClass singletonClass=null;//remove the static and see the compilor error

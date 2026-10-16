@@ -1,4 +1,4 @@
-package Collections_FrmWrk.SetExamples;
+package collections_frmwrk.setexamples;
 
 import java.util.HashSet;
 import java.util.Set;

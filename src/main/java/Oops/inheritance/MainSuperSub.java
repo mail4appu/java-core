@@ -1,4 +1,4 @@
-package Oops.inheritance;
+package oops.inheritance;
 
 public class MainSuperSub {
 

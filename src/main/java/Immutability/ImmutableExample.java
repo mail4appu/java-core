@@ -1,4 +1,4 @@
-package Immutability;
+package immutability;
 public class ImmutableExample {
 	public static void main(String args[]){
 		Double d= Double.valueOf(1.5);

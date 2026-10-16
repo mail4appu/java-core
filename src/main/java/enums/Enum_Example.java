@@ -1,4 +1,4 @@
-package Enum;
+package enums;
 
 import java.text.DecimalFormat;
 

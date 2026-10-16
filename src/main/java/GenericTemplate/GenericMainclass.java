@@ -1,4 +1,4 @@
-package GenericTemplate;
+package generictemplate;
 
 public class GenericMainclass {
 	public static void main(String args[]){

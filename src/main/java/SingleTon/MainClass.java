@@ -1,4 +1,4 @@
-package SingleTon;
+package singleton;
 
 public class MainClass {
 	

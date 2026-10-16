@@ -1,4 +1,4 @@
-package Oops;
+package oops;
 
 /**
  * @author vapparao

@@ -1,7 +1,7 @@
-package Oops;
+package oops;
 
-import Oops.inheritance.SubClass;
-import Oops.inheritance.SuperClass;
+import oops.inheritance.SubClass;
+import oops.inheritance.SuperClass;
 
 /**
  * @author vapparao

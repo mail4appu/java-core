@@ -1,4 +1,4 @@
-package algorithms.BinaryTree;
+package algorithms.binarytree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

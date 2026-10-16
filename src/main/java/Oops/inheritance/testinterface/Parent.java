@@ -1,4 +1,4 @@
-package Oops.inheritance.testinterface;
+package oops.inheritance.testinterface;
 
 public class Parent {
 	public void show(){

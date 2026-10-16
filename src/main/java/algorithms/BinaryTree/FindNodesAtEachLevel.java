@@ -1,5 +1,5 @@
 
-package algorithms.BinaryTree;
+package algorithms.binarytree;
 
 import algorithms.TreeNode;
 

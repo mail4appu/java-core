@@ -1,4 +1,4 @@
-package algorithms.Strings;
+package algorithms.strings;
 
 public class CheckPalindromStringRecursive {
    static int j=0;

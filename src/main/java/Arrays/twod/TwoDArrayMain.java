@@ -1,4 +1,4 @@
-package Arrays.twod;
+package arrays.twod;
 
 public class TwoDArrayMain {
     public static void main(String[] args) {

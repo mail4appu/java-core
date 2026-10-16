@@ -1,4 +1,4 @@
-package Oops.constructor;
+package oops.constructor;
 
 import java.net.MalformedURLException;
 import java.net.URL;

@@ -1,4 +1,4 @@
-package Oops.constructor;
+package oops.constructor;
 
 public class Child extends Parent {
 	static String s="";

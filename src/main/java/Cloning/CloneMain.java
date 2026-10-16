@@ -1,4 +1,4 @@
-package Cloning;
+package cloning;
 
 public class CloneMain {
 

@@ -1,4 +1,4 @@
-package Oops.interfaces;
+package oops.interfaces;
 
 public interface IBird {
     void eat();

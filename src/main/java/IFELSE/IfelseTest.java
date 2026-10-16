@@ -1,4 +1,4 @@
-package IFELSE;
+package ifelse;
 
 /**
  * @author vapparao

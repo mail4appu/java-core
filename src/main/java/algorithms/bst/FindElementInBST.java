@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 public class FindElementInBST {
 	public static void main(String[] args) {
-		algorithms.BinaryTree.BinaryTree.createBinaryTree();
-		algorithms.TreeNode rootNode=algorithms.BinaryTree.BinaryTree.getRootNode();
+		algorithms.binarytree.BinaryTree.createBinaryTree();
+		algorithms.TreeNode rootNode=algorithms.binarytree.BinaryTree.getRootNode();
 		System.out.println("enter the size fo input");
 		Scanner sc= new Scanner(System.in);
 		int size=sc.nextInt();

@@ -1,4 +1,4 @@
-package StaticCount;
+package staticcount;
 
 public class StaticCountGetter {
 	

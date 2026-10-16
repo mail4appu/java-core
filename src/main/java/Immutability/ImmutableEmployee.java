@@ -1,4 +1,4 @@
-package Immutability;
+package immutability;
 
 /**
  * @author appu

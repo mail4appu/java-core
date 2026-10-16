@@ -1,10 +1,10 @@
-package Oops.Overriding.main;
+package oops.overriding.main;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-import Oops.Overriding.sub.SubClass;
-import Oops.Overriding.sup.SuperClass;
+import oops.overriding.sub.SubClass;
+import oops.overriding.sup.SuperClass;
 
 /**
  * @author Test

@@ -1,4 +1,4 @@
-package ExceptionHandling.trycatchfinally;
+package exceptionhandling.trycatchfinally;
 
 /**
  * @author apparao

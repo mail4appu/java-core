@@ -1,4 +1,4 @@
-package Immutability;
+package immutability;
 
 import java.util.Collections;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Oops.inheritance.immutability;
+package oops.inheritance.immutability;
 
 import java.util.Date;
 

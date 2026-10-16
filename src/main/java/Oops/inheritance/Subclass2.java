@@ -1,4 +1,4 @@
-package Oops.inheritance;
+package oops.inheritance;
 
 public class Subclass2 extends SuperClass {
 public void print(){

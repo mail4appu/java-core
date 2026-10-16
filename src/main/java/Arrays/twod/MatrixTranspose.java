@@ -1,4 +1,4 @@
-package Arrays.twod;
+package arrays.twod;
 
 import java.util.Scanner;
 

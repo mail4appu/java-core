@@ -1,4 +1,4 @@
-package Abstract_Example;
+package abstract_example;
 
 /**
  * @author Test

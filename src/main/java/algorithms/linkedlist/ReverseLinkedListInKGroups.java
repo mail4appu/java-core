@@ -1,7 +1,7 @@
 package algorithms.linkedlist;
 
-import Collections_FrmWrk.implementations.linkedList.MyLinkedList;
-import Collections_FrmWrk.implementations.linkedList.Node;
+import collections_frmwrk.implementations.linkedlist.MyLinkedList;
+import collections_frmwrk.implementations.linkedlist.Node;
 
 /**
  * This also works on faith & expectation analogy

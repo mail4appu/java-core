@@ -1,11 +1,11 @@
-package Collections_FrmWrk.implementations.Iterator;
+package collections_frmwrk.implementations.iterator;
 
 import java.util.Iterator;
 
 public class IteratorMain {
 	public static void main(String[] args) {
 		MyContainer names= new MyContainer();
-		Collections_FrmWrk.implementations.Iterator.MyContainer.MyIterator it=names.getIterator();
+		collections_frmwrk.implementations.iterator.MyContainer.MyIterator it=names.getIterator();
 		System.out.println(it);
 		while(it.hasNext()){
 			System.out.println(it.next());

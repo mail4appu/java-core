@@ -1,4 +1,4 @@
-package CompareClass;
+package compareclass;
 
 public class StudentComparable implements Comparable<StudentComparable>{
 	private int marks;

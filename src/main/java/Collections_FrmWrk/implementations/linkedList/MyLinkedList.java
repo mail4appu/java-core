@@ -1,4 +1,4 @@
-package Collections_FrmWrk.implementations.linkedList;
+package collections_frmwrk.implementations.linkedlist;
 
 /**
  * @author Test

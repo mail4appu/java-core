@@ -2,8 +2,8 @@ package algorithms.linkedlist;
 
 import java.util.Stack;
 
-import Collections_FrmWrk.implementations.linkedList.MyLinkedList;
-import Collections_FrmWrk.implementations.linkedList.Node;
+import collections_frmwrk.implementations.linkedlist.MyLinkedList;
+import collections_frmwrk.implementations.linkedlist.Node;
 
 public class ReverseLinkedListUsingStack {
 

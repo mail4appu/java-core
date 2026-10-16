@@ -1,4 +1,4 @@
-package Bitwise;
+package bitwise;
 
 public class Xoroperations {
 	public static void main(String[] args) {

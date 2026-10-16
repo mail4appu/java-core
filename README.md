@@ -27,13 +27,13 @@ There are currently **no automated unit tests**. `verify` checks compilation and
 After building, run a JDK-only example:
 
 ```sh
-java -cp target/classes Bitwise.Xoroperations
+java -cp target/classes bitwise.Xoroperations
 ```
 
 For an interactive array example:
 
 ```sh
-java -cp target/classes Arrays.FindDuplicates
+java -cp target/classes arrays.FindDuplicates
 ```
 
 The program prompts for a size and integer values. Input handling and edge cases differ between exercises.
@@ -54,17 +54,17 @@ All source paths below are relative to `src/main/java/`.
 
 | Topic | Directories |
 |---|---|
-| Arrays and matrices | `Arrays/`, `Arrays/twod/` |
-| Lists, maps, sets, iterators | `Collections_FrmWrk/`, `CompareClass/`, `Hashing/` |
+| Arrays and matrices | `arrays/`, `arrays/twod/` |
+| Lists, maps, sets, iterators | `collections_frmwrk/`, `compareclass/`, `hashing/` |
 | Trees, linked lists, sorting, searching, recursion | `algorithms/`, `dsa/` |
 | Problem-solving exercises | `hackerrank/`, `leatcode/`, `afteracademy/`, `problems/` |
-| Classes, inheritance, cloning, immutability | `Oops/`, `Abstract_Example/`, `Cloning/`, `Immutability/` |
+| Classes, inheritance, cloning, immutability | `oops/`, `abstract_example/`, `cloning/`, `immutability/` |
 | Streams and functional programming | `java8/` |
-| Generics, exceptions, nested classes | `GenericTemplate/`, `ExceptionHandling/`, `InnerClass/` |
-| Numeric and bitwise operations | `BigInt/`, `Bitwise/`, `maths/`, `xor/` |
-| Dates, input, validation | `DateFormatting/`, `Scanner/`, `validation/` |
+| Generics, exceptions, nested classes | `generictemplate/`, `exceptionhandling/`, `innerclass/` |
+| Numeric and bitwise operations | `bigint/`, `bitwise/`, `maths/`, `xor/` |
+| Dates, input, validation | `dateformatting/`, `scanner/`, `validation/` |
 
-Original package spellings and capitalization are retained, including `leatcode` and `Collections_FrmWrk`, so source paths match existing imports.
+Package directories use lowercase names. Original spellings such as `leatcode` and `collections_frmwrk` are retained. The enum examples use `enums` because `enum` is a Java keyword.
 
 ## External libraries
 

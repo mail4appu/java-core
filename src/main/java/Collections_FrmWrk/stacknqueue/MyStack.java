@@ -1,4 +1,4 @@
-package Collections_FrmWrk.stacknqueue;
+package collections_frmwrk.stacknqueue;
 
 import java.util.Arrays;
 

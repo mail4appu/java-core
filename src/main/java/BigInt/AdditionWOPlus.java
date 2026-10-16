@@ -1,4 +1,4 @@
-package BigInt;
+package bigint;
 
 public class AdditionWOPlus {
 	public static void main(String[] args) {

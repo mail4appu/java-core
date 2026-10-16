@@ -1,4 +1,4 @@
-package algorithms.BinaryTree;
+package algorithms.binarytree;
 
 public class PrintAllPaths {
 

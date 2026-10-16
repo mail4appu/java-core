@@ -1,4 +1,4 @@
-package Cloning;
+package cloning;
 
 public class Department implements Cloneable{
 	int deptNo;

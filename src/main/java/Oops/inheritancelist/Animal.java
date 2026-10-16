@@ -1,4 +1,4 @@
-package Oops.inheritancelist;
+package oops.inheritancelist;
 
 public class Animal {
     private String name;

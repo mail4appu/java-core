@@ -1,4 +1,4 @@
-package Oops.inheritance;
+package oops.inheritance;
 
 public class Child2 extends Parent{
 

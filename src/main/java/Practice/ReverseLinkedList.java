@@ -1,7 +1,7 @@
-package Practice;
+package practice;
 
-import Collections_FrmWrk.implementations.linkedList.MyLinkedList;
-import Collections_FrmWrk.implementations.linkedList.Node;
+import collections_frmwrk.implementations.linkedlist.MyLinkedList;
+import collections_frmwrk.implementations.linkedlist.Node;
 import algorithms.linkedlist.LinkedListUtil;
 
 /**

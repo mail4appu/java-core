@@ -1,6 +1,6 @@
-package Cloning;
+package cloning;
 
-import GenericTemplate.SuperClass;
+import generictemplate.SuperClass;
 
 /**
  * @author appu

@@ -1,4 +1,4 @@
-package GenericTemplate;
+package generictemplate;
 
 public class MyClass<T extends SuperClass> {
 private T  anyObject;

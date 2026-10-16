@@ -1,4 +1,4 @@
-package Oops.inheritance.testinterface;
+package oops.inheritance.testinterface;
 
 public interface InterfaceA {
 	

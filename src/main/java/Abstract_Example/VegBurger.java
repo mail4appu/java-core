@@ -1,4 +1,4 @@
-package Abstract_Example;
+package abstract_example;
 
 public abstract class VegBurger extends BurgerAbstract{
 

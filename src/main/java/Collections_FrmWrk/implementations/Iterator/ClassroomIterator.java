@@ -1,4 +1,4 @@
-package Collections_FrmWrk.implementations.Iterator;
+package collections_frmwrk.implementations.iterator;
 
 import java.util.Iterator;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Collections_FrmWrk.List_Exmpls;
+package collections_frmwrk.list_exmpls;
 
 import java.util.ListIterator;
 import java.util.Vector;

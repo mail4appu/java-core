@@ -1,4 +1,4 @@
-package Oops.interfaces;
+package oops.interfaces;
 
 public class Ostritch implements IFlyingBird{
     @Override

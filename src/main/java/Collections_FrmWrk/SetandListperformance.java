@@ -1,4 +1,4 @@
-package Collections_FrmWrk;
+package collections_frmwrk;
 
 import java.util.ArrayList;
 import java.util.Collections;

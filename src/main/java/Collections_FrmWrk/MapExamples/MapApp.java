@@ -1,4 +1,4 @@
-package Collections_FrmWrk.MapExamples;
+package collections_frmwrk.mapexamples;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package Oops.StaticBlock;
+package oops.staticblock;
 
 public class DemoClass {
 	 public DemoClass() {

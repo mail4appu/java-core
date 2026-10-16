@@ -1,4 +1,4 @@
-package Hashing;
+package hashing;
 
 public class HashingObject {
 	private String nativPlace;

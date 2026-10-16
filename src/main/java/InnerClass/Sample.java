@@ -1,4 +1,4 @@
-package InnerClass;
+package innerclass;
 
 public class Sample {
 	

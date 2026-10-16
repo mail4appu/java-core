@@ -1,6 +1,6 @@
-package Oops.overloading.sub;
+package oops.overloading.sub;
 
-import Oops.overloading.sup.SuperClass;
+import oops.overloading.sup.SuperClass;
 
 
 public class SubClass extends SuperClass{

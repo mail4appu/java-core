@@ -1,4 +1,4 @@
-package Oops.inheritancelist;
+package oops.inheritancelist;
 
 public class Cat extends Animal {
 

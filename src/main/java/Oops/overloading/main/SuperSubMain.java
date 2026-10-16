@@ -1,7 +1,7 @@
-package Oops.overloading.main;
+package oops.overloading.main;
 
-import Oops.overloading.sub.SubClass;
-import Oops.overloading.sup.SuperClass;
+import oops.overloading.sub.SubClass;
+import oops.overloading.sup.SuperClass;
 
 /**
  * @author Test

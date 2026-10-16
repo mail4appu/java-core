@@ -1,4 +1,4 @@
-package Oops.StaticBlock;
+package oops.staticblock;
 
 /**
  * @author Test

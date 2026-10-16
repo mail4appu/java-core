@@ -1,4 +1,4 @@
-package Oops;
+package oops;
 
 public class Demo {
 	 public  static void show( )//remove static
