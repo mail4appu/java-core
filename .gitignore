@@ -1,0 +1,19 @@
+# Build and IDE output
+/target/
+/build/
+*.class
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+# Local credentials, data, and logs
+.env
+.env.*
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
